@@ -1,0 +1,11 @@
+**Escaping Form Output
+user input is not trustworthy
+
+we use **htmlspecialchars()** to escape special characters
+
+it takes care of < > " &
+
+**VALIDATING FORM DATA**
+
+check for non-empty values for text fields,radio buttons and checkboxes.
+
